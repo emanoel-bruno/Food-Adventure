@@ -1,3 +1,3 @@
-# Food_Travel
+# Game Food Adventure
 
-This is a simple game made with *RpgBoss*. 
+This is a simple  **RPG** game made with *RpgBoss*. 
