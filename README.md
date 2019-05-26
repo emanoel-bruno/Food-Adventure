@@ -20,4 +20,8 @@ Open the folder Windows and run the rpgbos.exe
 
 Open the folder Linux-Mac and run rpgboss
   
- ./rpgboss
+    ./rpgboss
+
+#### Or
+
+    sh rpgboss
